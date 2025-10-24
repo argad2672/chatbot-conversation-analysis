@@ -1,0 +1,140 @@
+id,menu_id,name,price,description,calories,created_at,updated_at
+1,1,MAN’OUSHE ZAATAR,5500,Mélange de thym fait maison dans une galette,300,2024-09-09 23:45:39,2024-09-09 23:45:39
+2,1,JEBNEH,6500,Mélange de fromage maison dans une galette,320,2024-09-09 23:45:39,2024-09-09 23:45:39
+3,1,BOKJAT JEBNEH,8000,"Pâte à base d’un mélange de fromage maison, feuilles vertes",350,2024-09-09 23:45:39,2024-09-09 23:45:39
+4,1,BOKJAT JEBNEH HARRA,8000,"Pâte à base d’un mélange de fromage maison, feuilles vertes, piment",350,2024-09-09 23:45:39,2024-09-09 23:45:39
+5,1,LAHMEH BI AJEEN,7500,Tarte à la viande hachée épicée,400,2024-09-09 23:45:39,2024-09-09 23:45:39
+6,1,LAHMEH BI AJEEN DEBS,7500,Tarte à la viande hachée avec mélasse de grenade,420,2024-09-09 23:45:39,2024-09-09 23:45:39
+7,1,MAN’OUSHE SOUJOUK,8500,"Saucisse Libanaise épicée, tomate et fromage dans une galette",380,2024-09-09 23:45:39,2024-09-09 23:45:39
+8,1,MAN’OUSHE MUSAKHAN,8500,Oignons et poulet au sumac dans une galette,360,2024-09-09 23:45:39,2024-09-09 23:45:39
+9,1,BEYD OUYOUN,4000,Œufs au plat,150,2024-09-09 23:45:39,2024-09-09 23:45:39
+10,1,MAKHFOUK,5000,Œufs brouillés,160,2024-09-09 23:45:39,2024-09-09 23:45:39
+11,1,BEYD SOUJOUK,5500,Tous types d’œufs avec saucisse libanaise épicée,180,2024-09-09 23:45:39,2024-09-09 23:45:39
+12,1,BEYD SHAKSHOUKA,5500,Tous types d’œufs avec tomate et sauce poivre,170,2024-09-09 23:45:39,2024-09-09 23:45:39
+13,1,LABNEH AU LAIT DE CHÈVRE,6500,"Mélange de Labneh au lait de chèvre maison, huile d’olive extra vierge",250,2024-09-09 23:45:39,2024-09-09 23:45:39
+14,1,LABNEH AU LAIT DE VACHE,6500,"Mélange de Labneh au lait de vache maison, huile d’olive extra vierge",270,2024-09-09 23:45:39,2024-09-09 23:45:39
+15,1,HALLOUM,8500,"Halloumi frit, tomate sautée, Zaatar sauvage",280,2024-09-09 23:45:39,2024-09-09 23:45:39
+16,1,LABNEH BAKLE,6500,"Mélange de Labneh au lait de vache maison, huile d’olive extra vierge et pourpier",250,2024-09-09 23:45:39,2024-09-09 23:45:39
+17,1,HOUMOUS,10500,"Pois chiche, yaourt, pain croustillant, pignons grillés",400,2024-09-09 23:45:39,2024-09-09 23:45:39
+18,1,BATENJEN,12000,"Aubergine marinée, yaourt, pain croustillant, pignons grillés",420,2024-09-09 23:45:39,2024-09-09 23:45:39
+19,1,MAFTOUL,10500,"Boulgour épicé, pain croustillant, pignons grillés",450,2024-09-09 23:45:39,2024-09-09 23:45:39
+20,1,KEBBEH NAYYEH,9500,"Tartare de boeuf libanais onctueux, boulgour, basilic",390,2024-09-09 23:45:39,2024-09-09 23:45:39
+21,1,HABRA NAYYEH,9500,Tartare de boeuf libanais onctueux,390,2024-09-09 23:45:39,2024-09-09 23:45:39
+22,1,FRAKEH,9500,"Tartare de boeuf libanais onctueux, mélange de boulgour épicé",400,2024-09-09 23:45:39,2024-09-09 23:45:39
+23,1,TABBOULEH,7500,"Persil haché, tomate, boulgour, jus de citron et huile d’olive extra vierge",200,2024-09-09 23:45:39,2024-09-09 23:45:39
+24,1,TABBOULEH HARRA,7500,"Persil haché, tomate, boulgour, jus de citron, huile d’olive extra vierge, molasse de grenadine et piment vert",220,2024-09-09 23:45:39,2024-09-09 23:45:39
+25,1,FATTOUSH DEBS REMMANE,8000,"Salade libanaise, mélasse de grenade, pain croustillant",240,2024-09-09 23:45:39,2024-09-09 23:45:39
+26,1,SALADE ORIENTALE,6500,"Feuilles vertes, oignon, vinaigre de cidre, sumac",180,2024-09-09 23:45:39,2024-09-09 23:45:39
+27,1,ADAS,7500,"Lentilles libanaises, coriandre, mélasse de grenade",210,2024-09-09 23:45:39,2024-09-09 23:45:39
+28,1,SHMANDAR,8000,"Betteraves, pourpier, noix caramélisées, sauce à l'orange",250,2024-09-09 23:45:39,2024-09-09 23:45:39
+29,1,ARDISHAWKE,11000,"Artichauts, feuilles vertes, pignons, olives grillées, vinaigrette citron ail",270,2024-09-09 23:45:39,2024-09-09 23:45:39
+30,1,KALE FREEKEH,12000,"Chou ciselé, freekeh, pistache, fruits de saison, sauce vinaigre miel",300,2024-09-09 23:45:39,2024-09-09 23:45:39
+31,1,RAHEB,7500,"Salade d'aubergine grillée et flambée, jus de citron aillé",350,2024-09-09 23:45:39,2024-09-09 23:45:39
+32,1,TAOUK,12000,"Laitue, poulet grillé, pain croustillant, sauce moutarde en grains",380,2024-09-09 23:45:39,2024-09-09 23:45:39
+33,1,HOUMOUS LAHME,8000,"Purée de pois chiche, tahini, citron, viande hachée, huile d'olive extra vierge",400,2024-09-09 23:45:39,2024-09-09 23:45:39
+34,1,HOUMOUS SOUJOUK,9500,"Purée de pois chiche, tahini, citron, saucisse épicée, huile d'olive extra vierge",320,2024-09-09 23:45:39,2024-09-09 23:45:39
+35,1,HOUMOUS RAS ASFOUR,10500,"Purée de pois chiche, tahini, citron, dés de boeuf, huile d'olive extra vierge",300,2024-09-09 23:45:39,2024-09-09 23:45:39
+36,1,KIBBEH BIL LAHME,7000,"Tarte à la viande et au boulgour, farcie l'oignon et au sumac",280,2024-09-09 23:45:39,2024-09-09 23:45:39
+37,1,SAMBOUSIK,6500,Pâtes farcies de viande,320,2024-09-09 23:45:39,2024-09-09 23:45:39
+38,1,FATAYER BAKLE,6500,Pâtes farcies de zaatar sauvage et pourpier,250,2024-09-09 23:45:39,2024-09-09 23:45:39
+39,1,FALAFEL,7000,"Beignets de pois chiche et herbe, sauce tahini",240,2024-09-09 23:45:39,2024-09-09 23:45:39
+40,1,FOUL,6500,Fèves à l'huile d'olive,230,2024-09-09 23:45:39,2024-09-09 23:45:39
+41,1,BALILA,6500,Pois chiche à l'huile d'olive,300,2024-09-09 23:45:39,2024-09-09 23:45:39
+42,1,ASBIT DJEIJ,7500,"Sauté de foie de poulet, coriandre, sauce ail ou sumac",350,2024-09-09 23:45:39,2024-09-09 23:45:39
+43,1,SOUJOUK,8000,"Saucisses libanaises épicées grillées, sauce poivre et tomate",400,2024-09-09 23:45:39,2024-09-09 23:45:39
+44,1,SAMAK RAS ASFOUR,10500,"Filet de poisson cube, tarator, citron, peu pimenté",450,2024-09-09 23:45:39,2024-09-09 23:45:39
+45,1,KREIDES HARR,10500,Crevettes avec une sauce pimentée,300,2024-09-09 23:45:39,2024-09-09 23:45:39
+46,1,MAKANEK SUMAC,10000,"Saucisses libanaises grillées, sumac",320,2024-09-09 23:45:39,2024-09-09 23:45:39
+47,1,RAS ASFOUR DEBS REMMANE,8500,"Dés de boeuf sautés, mélasse de grenade, pignons",200,2024-09-09 23:45:39,2024-09-09 23:45:39
+48,1,RAS ASFOUR HAMOD,10000,"Dés de boeuf sautés, beurre de citron, pignons",180,2024-09-09 23:45:39,2024-09-09 23:45:39
+49,1,BATATA HARRA,6000,"Pommes de terre épicées, coriandre",500,2024-09-09 23:45:39,2024-09-09 23:45:39
+50,1,BATATA MEKLIYEH,4500,Pommes de terre frites,450,2024-09-09 23:45:39,2024-09-09 23:45:39
+51,1,BURGER EM SHERIF,12000,"Steak haché, pain brioché, cheddar, coleslaw, frites",600,2024-09-09 23:45:39,2024-09-09 23:45:39
+52,1,BOEUF GRILLÉ,8500,"Filet de boeuf grillé, houmous, cornichons, persil, oignon",550,2024-09-09 23:45:39,2024-09-09 23:45:39
+53,1,SHAWARMA LAHME,13000,"Shawarma boeuf, persil, oignon, tomate",620,2024-09-09 23:45:39,2024-09-09 23:45:39
+54,1,SHAWARMA DJEIJ,9500,"Shawarma poulet, laitue, cornichons",480,2024-09-09 23:45:39,2024-09-09 23:45:39
+55,1,BEEFTEAK W BATATA,13500,"Steak de boeuf poêlé, crème de noix, frites",450,2024-09-09 23:45:39,2024-09-09 23:45:39
+56,1,MAACARONI LAHME,10500,Spaghetti à la viande sauce rouge avec fromage,300,2024-09-09 23:45:39,2024-09-09 23:45:39
+57,1,KAHWE W HAL,8000,"Génoise cardamome et café, chocolat blanc et pot de crème cardamome",250,2024-09-09 23:45:39,2024-09-09 23:45:39
+58,1,ZANJABIL CRÈME CARAMEL,8000,Pot de crème au gingembre et caramel,200,2024-09-09 23:45:39,2024-09-09 23:45:39
+59,1,MUHALLABIYEH ASSAL,8000,Pot de muhallabiyeh au miel et pollen d'abeille,180,2024-09-09 23:45:39,2024-09-09 23:45:39
+60,1,CHOCOLAT W HALEWE,8000,"Génoise au chocolat, crème chocolatée, pot de halewe",160,2024-09-09 23:45:39,2024-09-09 23:45:39
+61,1,RIZ BI HALIB,7000,"Riz au lait à la fleur d’oranger et eau de rose, avec riz soufflé caramélisé",150,2024-09-09 23:45:39,2024-09-09 23:45:39
+62,1,MEGHLI,7000,"Pudding libanais épicé, mélange de noix",200,2024-09-09 23:45:39,2024-09-09 23:45:39
+63,1,AYSH EL SARAYA,8000,"Pain toasté caramélisé, ashta",180,2024-09-09 23:45:39,2024-09-09 23:45:39
+64,1,FAWAKEH,7000,Salade de fruits de saison,210,2024-09-09 23:45:39,2024-09-09 23:45:39
+65,1,MAFROUKET FESTOK,8500,"Pâte de semoule et de pistache, crème d’ashta",190,2024-09-09 23:45:39,2024-09-09 23:45:39
+66,1,MAAMOUL JIBNEH,8500,"Pâte de semoule garnie de fromage, sirop de fleur d’oranger",230,2024-09-09 23:45:39,2024-09-09 23:45:39
+67,1,EM ALI,9500,"Pâte feuilletée maison infusée au lait de vanille, amandes et raisins caramélisés",300,2024-09-09 23:45:39,2024-09-09 23:45:39
+68,1,COCONUT MILK CAKE WITH ANANAS,8500,"Génoise imbibée au lait de coco, crème coco, coulis de fruit de la passion et ananas",400,2024-09-09 23:45:39,2024-09-09 23:45:39
+69,1,HALEWET JEBEN,8500,"Pâte de fromage, ashta, pistache, fleur d’oranger",150,2024-09-09 23:45:39,2024-09-09 23:45:39
+70,1,FORÊT-NOIRE,8000,Génoise au cacao fourrée de crème chantilly et de cerises,160,2024-09-09 23:45:39,2024-09-09 23:45:39
+71,1,PASSION SWING,9000,"Fraise, fruit de la passion, orange juice",180,2024-09-09 23:45:39,2024-09-09 23:45:39
+72,1,TROPICAL STORM,9000,"Blueberry, coco, ananas",170,2024-09-09 23:45:39,2024-09-09 23:45:39
+73,1,DETOX MIX,9000,"Fraise, banane, lait",150,2024-09-09 23:45:39,2024-09-09 23:45:39
+74,1,RED BOOSTER,9000,"Fraise, gingembre, pomme",120,2024-09-09 23:45:39,2024-09-09 23:45:39
+75,1,ROSE BREEZE,9000,"Noix de coco, rose",120,2024-09-09 23:45:39,2024-09-09 23:45:39
+76,1,LIMONADE,5000,Limonade fraîche,120,2024-09-09 23:45:39,2024-09-09 23:45:39
+77,1,LIMONADE MENTHE,5000,Limonade à la menthe,120,2024-09-09 23:45:39,2024-09-09 23:45:39
+78,1,ORANGE,5000,Jus d'orange frais,130,2024-09-09 23:45:39,2024-09-09 23:45:39
+79,1,CAROTTE,5000,Jus de carotte frais,120,2024-09-09 23:45:39,2024-09-09 23:45:39
+80,1,ANANAS,5000,Jus d'ananas frais,120,2024-09-09 23:45:39,2024-09-09 23:45:39
+81,1,MIX FRUITS DE SAISON,5000,Jus de fruits de saison,80,2024-09-09 23:45:39,2024-09-09 23:45:39
+82,1,BISSAP,5000,Jus de bissap,90,2024-09-09 23:45:39,2024-09-09 23:45:39
+83,1,POMMES,9000,Shisha saveur pomme,80,2024-09-09 23:45:39,2024-09-09 23:45:39
+84,1,CITRON & MENTHE,9000,Shisha saveur citron et menthe,80,2024-09-09 23:45:39,2024-09-09 23:45:39
+85,1,RAISIN & MENTHE,9000,Shisha saveur raisin et menthe,80,2024-09-09 23:45:39,2024-09-09 23:45:39
+86,1,RAISIN,9000,Shisha saveur raisin,90,2024-09-09 23:45:39,2024-09-09 23:45:39
+87,1,MENTHE,9000,Shisha saveur menthe,100,2024-09-09 23:45:39,2024-09-09 23:45:39
+88,1,PASTÈQUE,9000,Shisha saveur pastèque,150,2024-09-09 23:45:39,2024-09-09 23:45:39
+89,1,COCKTAIL,9000,Shisha saveur cocktail,200,2024-09-09 23:45:39,2024-09-09 23:45:39
+90,1,LOVE,10000,Shisha saveur love,50,2024-09-09 23:45:39,2024-09-09 23:45:39
+91,1,AJAMI,11000,Shisha saveur ajami,0,2024-09-09 23:45:39,2024-09-09 23:45:39
+92,1,CHANGE TETE,4500,Change de tête de shisha,0,2024-09-09 23:45:39,2024-09-09 23:45:39
+93,3,Berluti,75000,Berluti Shoes,0,2024-09-16 17:10:54,2024-09-16 17:10:54
+94,3,Boss,25000,Boss shoes,0,2024-09-17 12:39:14,2024-09-17 12:45:07
+95,3,Dolce & Gabana,25000,Dolce & Gabana Shoes,0,2024-09-17 13:02:51,2024-09-17 13:02:51
+96,3,Nike,25000,Nike Shoes,0,2024-09-17 13:11:24,2024-09-17 13:11:24
+97,3,BMW,25000,BMW Shoes,0,2024-09-17 14:54:01,2024-09-17 14:54:01
+98,3,T-shirt,15000,T-shirt,0,2024-09-17 15:39:15,2024-09-17 15:39:15
+99,4,Filet de Boeuf,12000,,450,2025-01-06 17:06:46,2025-01-06 17:06:46
+100,4,Pavé de Saumon,17000,,250,2025-01-06 17:06:46,2025-01-06 17:06:46
+101,4,Blanc de Poulet,11000,,300,2025-01-06 17:06:46,2025-01-06 17:06:46
+102,4,Gambas à la Plancha,15500,,200,2025-01-06 17:06:46,2025-01-06 17:06:46
+103,4,Poulet Croustillant - Buffalo,4500,"Goujonnettes de poulet croustillantes imbibées de sauce, servi avec une honey mustard sauce",300,2025-01-06 17:06:46,2025-01-06 17:06:46
+104,4,Poulet Croustillant - BBQ,5000,"Goujonnettes de poulet croustillantes imbibées de sauce, servi avec une honey mustard sauce",300,2025-01-06 17:06:46,2025-01-06 17:06:46
+105,4,Poulet Croustillant - Louisiana,5000,"Goujonnettes de poulet croustillantes imbibées de sauce, servi avec une honey mustard sauce",300,2025-01-06 17:06:46,2025-01-06 17:06:46
+106,4,Quesadillas Poulet/Viande,6500,"Mix de cheddar, mozzarella, tomate cerise, oignon vert, champignon, olive noire, jalapeño, blanc de poulet ou viande hachée, servi avec 3 sauces",300,2025-01-06 17:06:46,2025-01-06 17:06:46
+107,4,Gambas Panée au Coco,6500,5 pièces de gambas pânées servies avec une mayonnaise au coco,200,2025-01-06 17:06:46,2025-01-06 17:06:46
+108,4,Croque-Moi,5000,5 croquettes de fromage mixé cheddar et mozzarella servi avec une sauce Uzi,250,2025-01-06 17:06:46,2025-01-06 17:06:46
+109,4,Fries N' Cheese,5000,Fondue de cheddar sur des frites croustillantes servi avec une sauce cocktail,300,2025-01-06 17:06:46,2025-01-06 17:06:46
+110,4,Dynamite Shrimps,7000,"Crevettes panées imbibées d’une spicy mayo légère, sesame, oignon vert",250,2025-01-06 17:06:46,2025-01-06 17:06:46
+111,4,Nachos au Fromage,6500,"Tortilla chips, sauce cheddar, jalapeño servi avec 3 sauces",350,2025-01-06 17:06:46,2025-01-06 17:06:46
+112,4,Mozzarella Sticks,5000,"5 bâtonnets de mozzarella frits, servi avec une sauce maison",250,2025-01-06 17:06:46,2025-01-06 17:06:46
+113,4,Triple Mini Burgers,8000,"Cheese burger, gambas panée, fried chicken with various sauces",300,2025-01-06 17:06:46,2025-01-06 17:06:46
+114,4,Ginger Orange Shrimps,7500,"Gambas de tempura sauté à l’orange, au gingembre et au miel",250,2025-01-06 17:06:46,2025-01-06 17:06:46
+115,4,Duo de Tartine,5500,Tartine de guacamole faite maison,250,2025-01-06 17:06:46,2025-01-06 17:06:46
+116,4,Truffle Fries,5000,Frites croustillantes parsemées de parmesan et de l’huile à la truffe,300,2025-01-06 17:06:46,2025-01-06 17:06:46
+117,4,Zinger Burger,9000,"Escalope de poulet pané, dinde fumé, jalapeño, maïs, iceberg, aïoli sauce, cheddar sauce",500,2025-01-06 17:06:46,2025-01-06 17:06:46
+118,4,Cuban Burger,8500,"Beef patty, jalapeno, oignon rouge, tomate, cheddar, iceberg, chili mayo",450,2025-01-06 17:06:46,2025-01-06 17:06:46
+119,4,All Fit Burger,7500,"Blanc de poulet grillé, avocat, tomate, champignons sautés, iceberg light mayo-moutarde",500,2025-01-06 17:06:46,2025-01-06 17:06:46
+120,4,Ultime Burger,8000,,500,2025-01-06 17:06:46,2025-01-06 17:06:46
+121,4,Mexican BBQ Burger,9000,"Beef patty, oignons et champignons sautés, jalapeño, tomate, iceberg, cheddar, poivron rouge sauté, chili mayo",450,2025-01-06 17:06:46,2025-01-06 17:06:46
+122,4,Classic Cheeseburger,7500,"Beef patty, tomate, oignon frais, iceberg, cheddar, sauce cocktail",450,2025-01-06 17:06:46,2025-01-06 17:06:46
+123,4,Club au Poulet,8000,"Pain de mie, poulet grillé, dinde fumée, œuf, tomate, cornichon, salade, asian mayo",300,2025-01-06 17:06:46,2025-01-06 17:06:46
+124,4,Chicken Delight Sandwich,7500,"Poulet grillé, mozzarella, avocat, cornichon, tomate, iceberg, sauce honey mustard dans un pain céréales",250,2025-01-06 17:06:46,2025-01-06 17:06:46
+125,4,Crispy Bomber Sandwich,7000,"Poulet croustillant, coleslaw salad, tomate, jalapeño, chili mayo dans une baguette traditionnelle",150,2025-01-06 17:06:46,2025-01-06 17:06:46
+126,4,Salade du chef,9500,"Tomate cerise, servie avec une lemon mayo sauce",150,2025-01-06 17:06:46,2025-01-06 17:06:46
+127,4,Crispy Crab Salad,9500,"Crab sticks, iceberg, chapelure japonaise, avocat, oignon vert, tomate cerise, spicy mayo",250,2025-01-06 17:06:46,2025-01-06 17:06:46
+128,4,Crazy Mexican Salad,10500,"Mix greens, poulet au cheddar, haricots rouges, maïs, olive, avocat, tomate cerise, jalapeño, chips tortilla",250,2025-01-06 17:06:46,2025-01-06 17:06:46
+129,4,Salade Cesar au Poulet,9000,"Iceberg, parmesan, croutons, blanc de poulet grillé",300,2025-01-06 17:06:46,2025-01-06 17:06:46
+130,4,Salade Nicoise,8500,"Iceberg, tomate cerise, avocat, crevette grillée, honey mustard sauce",150,2025-01-06 17:06:46,2025-01-06 17:06:46
+131,4,Salade Aubergines & Feta,9000,"Concombre, olive, menthe, persil, zaatar, graines de citrouille, sauce bonbon",150,2025-01-06 17:06:46,2025-01-06 17:06:46
+132,4,Salade Camembert Rôti,12000,"Camembert rôti au four, sucrine, tomate cerise, noisette, croutons, vinaigrette et miel",150,2025-01-06 17:06:46,2025-01-06 17:06:46
+133,4,Salade Quinoa,7500,"Quinoa, persil, avocat, laitue verte, concombre, tomate cerise, maïs, vinaigrette",150,2025-01-06 17:06:46,2025-01-06 17:06:46
+134,4,Tuna Pasta Salad,9500,"Fusilli, thon, maïs, cornichon, olive, laitue verte, concombre, avocat, tomate cerise, lemon mayo",250,2025-01-06 17:06:46,2025-01-06 17:06:46
+135,4,Pain Perdu du Chef,7000,Brioche maison caramélisée servie avec une crême anglaise,400,2025-01-06 17:06:46,2025-01-06 17:06:46
+136,4,Cookie Cake,7000,Servie avec une glace à la vanille,250,2025-01-06 17:06:46,2025-01-06 17:06:46
+137,4,"Eau plate 0,5 L",1000,,250,2025-01-06 17:06:46,2025-01-06 17:06:46
+138,4,Coca,2000,,250,2025-01-06 17:06:46,2025-01-06 17:06:46
+139,4,Ice Tea,2500,,250,2025-01-06 17:06:46,2025-01-06 17:06:46

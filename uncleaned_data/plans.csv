@@ -1,0 +1,4 @@
+id,name,description,monthly_price,yearly_price,3d_items_limit,api_limit,storage_limit,extra_api_price,extra_3d_item_price,extra_storage_price,created_at,updated_at
+1,Basic,"Designed for small businesses or cafes with a limited menu, offering essential chatbot features with 3D menus.",60,720,10,1000,1,0.05,50,30,2024-09-09 19:28:57,2024-09-09 19:31:14
+2,Standard,"Ideal for medium-sized restaurants, includes more chatbot interactions, 3D menus, and integrations like social media.",150,1800,50,5000,2,0.05,50,30,2024-09-09 19:30:54,2024-09-09 19:31:31
+3,Premium,"Perfect for larger restaurants or chains, offering advanced chatbot features, analytics, and more 3D menu items.",300,3600,100,10000,3,0.05,50,30,2024-09-09 19:33:38,2024-09-09 19:33:38

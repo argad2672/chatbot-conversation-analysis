@@ -1,0 +1,6 @@
+id,bot_id,customer_name,customer_phone,wa_id,status,total_amount,delivery_address,special_instructions,estimated_delivery_time,created_at,updated_at
+1,2,ibrahim flefiel,81720138,96181720138,delivered,19500.0,,,,2025-06-20 19:34:05,2025-06-20 19:43:55
+2,2,Guelade Kevin,07 08 86 37 19,22508863719,delivered,5500.0,"Yopougon, Toit Rouge",,,2025-06-21 13:45:00,2025-06-21 13:46:49
+3,2,Hussein,0856175749,33605593266,pending,12000.0,,À emporter,,2025-06-22 01:02:26,2025-06-22 01:02:26
+4,2,Hussein,0856175749,33605593266,delivered,6500.0,,À emporter,,2025-06-22 01:02:51,2025-06-22 01:30:23
+5,2,Fabrice kouadio,0748955603,96181720138,ready,19500.0,,,,2025-06-23 16:30:34,2025-06-23 16:31:53

@@ -1,0 +1,6 @@
+cluster,message_count,avg_sentiment,avg_satisfaction,recommendation
+0,9913,0.746,0.075,"High volume, low satisfaction → Improve chatbot responses for this topic"
+1,545,0.478,0.004,Low sentiment & satisfaction → Review responses or escalate to human agent
+2,447,0.535,0.002,Low sentiment & satisfaction → Review responses or escalate to human agent
+3,23,0.731,0.174,Moderate performance → Monitor and improve gradually
+4,93,0.863,0.516,High satisfaction → Keep current responses

@@ -1,0 +1,5 @@
+id,flow_id,name,message_type,message_content,next_state_id,created_at,updated_at
+1,1,Hello,text,"Welcome to Emsherif Cafe ChatBot, we are happy to see you here",2.0,2024-09-07 22:27:44,2024-09-07 22:29:39
+2,1,Please Choose of the following options,list,"Continue our conversation,
+Online Menu,
+Instagram Page",,2024-09-07 22:29:11,2024-09-07 22:29:11

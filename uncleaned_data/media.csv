@@ -1,0 +1,25 @@
+id,mediable_id,mediable_type,type,url,metadata,created_at,updated_at
+1,93,App\Models\MenuItem,photo,UksB3A3fojLZdUMOHl1HfYeET8qzF2fn1Y7EPVNw.jpg,"""color: green""",2024-09-16 20:01:31,2024-09-16 20:01:31
+2,93,App\Models\MenuItem,photo,sIuBSQjCcwoxLeVLkKxzzMUhnMBQDQFfo54jlshk.jpg,"""color: blue""",2024-09-16 20:02:05,2024-09-16 20:02:05
+3,93,App\Models\MenuItem,photo,l5zVqicspQVZXNenREblPiC87yEuHTeklLZwoeCd.jpg,"""color: black""",2024-09-16 20:02:36,2024-09-16 20:02:36
+4,93,App\Models\MenuItem,photo,RqUcitPSmKhOBv285iQQgE2rioQ6KDEu1v6gKBUJ.jpg,"""color: brown""",2024-09-16 20:03:46,2024-09-16 20:03:46
+5,94,App\Models\MenuItem,photo,DOXGO7PSB8bDfxj2gc9aZWidw11KwEwmKSXddQNM.jpg,"""color: black""",2024-09-17 12:41:37,2024-09-17 12:41:37
+6,94,App\Models\MenuItem,photo,xPNKoJLsW8NtHE1blXmc0QshTO2lHmwc1pWxJBpv.jpg,"""color: blue""",2024-09-17 12:41:53,2024-09-17 12:41:53
+7,95,App\Models\MenuItem,photo,9vMx3ZVGnywaT3ewx0qsetUk1rgYpKPBxT0cOKwH.jpg,"""Color: Black and white""",2024-09-17 13:03:19,2024-09-17 13:03:19
+8,95,App\Models\MenuItem,photo,winOz0qViW1BnlCPIDc71Uobjp5Z4wRuifThgvJ7.jpg,"""color: white and brown""",2024-09-17 13:03:33,2024-09-17 13:03:33
+9,95,App\Models\MenuItem,photo,XLzpXbMIOKWGm33EK9uwJYkoTwruhhvtlJA4jN4P.jpg,"""color: black""",2024-09-17 13:03:49,2024-09-17 13:03:49
+10,96,App\Models\MenuItem,photo,46I1Q2J7M7jNfdXGoXCVbYD98Kopz4zsrvqYNun2.jpg,"""color: white with red traces""",2024-09-17 13:12:04,2024-09-17 13:12:04
+11,96,App\Models\MenuItem,photo,Z9tiNDEPogwXiGo4qSVGboKCLNsV8YQ666NeXdax.jpg,"""color: black with orange traces""",2024-09-17 13:12:51,2024-09-17 13:12:51
+12,96,App\Models\MenuItem,photo,dXAnxwShAEW2sIc3BvlQ4JjImg0rfLw7LkeVCi23.jpg,"""color: Black""",2024-09-17 13:13:20,2024-09-17 13:13:20
+13,96,App\Models\MenuItem,photo,Zhk8oSV3NCiWxSDFGgRXxkQO22ZRKTYtcJWaUs71.jpg,"""color: brown and black""",2024-09-17 13:13:39,2024-09-17 13:13:39
+14,96,App\Models\MenuItem,photo,VV1fYgSiJ0ZoVBZRfgYGIV5BUvRFobwAiATl3pW4.jpg,"""color: white with rainbow traces""",2024-09-17 13:13:58,2024-09-17 13:13:58
+15,96,App\Models\MenuItem,photo,QXe7MSFUqmyCxp6te38cNxgU4Wvhf2PBEhUsgTuK.jpg,"""color: white and beige""",2024-09-17 13:15:00,2024-09-17 13:15:00
+16,97,App\Models\MenuItem,photo,rDC294sTD6wLPvalZukFw08r2HHIwkvTWUXrxOzg.jpg,"""Color: black""",2024-09-17 14:54:32,2024-09-17 14:54:32
+17,97,App\Models\MenuItem,photo,JPerMvVraUItAlIJTaryzA8auTfLnWRIjSNEzgK4.jpg,"""Color: white""",2024-09-17 14:54:53,2024-09-17 14:54:53
+18,97,App\Models\MenuItem,photo,8r8XLpwm5QAQ098s1Ig1Rm1HooBeq2JCQrVym1Pn.jpg,"""Color: blue and white""",2024-09-17 14:55:16,2024-09-17 14:55:16
+19,98,App\Models\MenuItem,photo,csp3ymmrexEZshZZDo8FSq2lfi11TCA8GWteHVKU.jpg,"""The t-shirt in the image is a casual polo shirt with a buttoned collar. It features an interesting and intricate pattern that consists of handwritten-like script text spread across the fabric. The base color of the t-shirt transitions from a darker shade at the bottom to a lighter shade towards the top. The script is cursive and decorative, giving the shirt a unique, stylish, and somewhat vintage look. The overall color scheme includes shades of grey and black, with the collar and sleeve trims in darker tones, complementing the design. The fit appears tailored, and the material looks soft and comfortable, suitable for casual wear.""",2024-09-17 15:41:04,2024-09-17 15:41:04
+20,98,App\Models\MenuItem,photo,DBYtvvc2izzU88v5IOQsNIDcPwvo9zqqyav9iJPz.jpg,"""Blue tshirt""",2024-09-17 15:42:02,2024-09-17 15:42:02
+21,99,App\Models\MenuItem,photo,aRRUMytG9Do6YJtzCGLVsLGzU0l6C1BI6u9rTukK.jpg,,2025-01-06 17:30:19,2025-01-06 17:30:19
+22,100,App\Models\MenuItem,photo,GBrECJO3t29UA6lZC0VPo7tiBsvATYP1wKoLrVqg.jpg,,2025-01-06 17:35:03,2025-01-06 17:35:03
+23,133,App\Models\MenuItem,photo,TSlxaOOWfFhWr5eyrGp2VA3KqEmQu9eJ3MLKu2f9.png,,2025-01-06 18:54:41,2025-01-06 18:54:41
+24,104,App\Models\MenuItem,photo,XSqBIKqkSEWQqnZmR0kIHvLnlcKRSaRiSPmJ6Apu.png,,2025-01-06 19:19:50,2025-01-06 19:19:50

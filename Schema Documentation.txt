@@ -1,0 +1,238 @@
+
+1. users
+
+Purpose: Stores user accounts for accessing the chatbot platform.
+Columns:
+
+id (PK, BIGINT) – unique identifier
+
+name (VARCHAR) – user’s full name
+
+email (VARCHAR, unique) – login email
+
+password (VARCHAR) – hashed password
+
+remember_token (VARCHAR) – token for authentication sessions
+
+created_at, updated_at – timestamps
+Relationships:
+
+Linked to clients (if user is a client)
+
+Linked to bot_user (many-to-many relation with bots)
+
+2. clients
+
+Purpose: Represents end-users who interact with bots.
+Columns:
+
+id (PK, BIGINT) – client identifier
+
+name (VARCHAR) – client’s name
+
+phone (VARCHAR) – contact number
+
+email (VARCHAR) – contact email
+
+created_at, updated_at
+Relationships:
+
+One client → many chats
+
+May be linked with orders
+
+3. bots
+
+Purpose: Stores chatbot configurations.
+Columns:
+
+id (PK, BIGINT) – bot identifier
+
+name (VARCHAR) – bot’s name
+
+description (TEXT) – what the bot does
+
+created_at, updated_at
+Relationships:
+
+One bot → many chats
+
+Many-to-many with users via bot_user
+
+4. bot_user
+
+Purpose: Join table for users ↔ bots (many-to-many).
+Columns:
+
+id (PK, BIGINT)
+
+user_id (FK → users.id)
+
+bot_id (FK → bots.id)
+
+created_at, updated_at
+Relationships:
+
+Many users can manage many bots
+
+5. chats
+
+Purpose: Stores conversations between clients and bots.
+Columns:
+
+id (PK, BIGINT)
+
+client_id (FK → clients.id)
+
+bot_id (FK → bots.id)
+
+question (TEXT) – user query
+
+answer (TEXT) – bot response
+
+type (VARCHAR) – type of conversation (text, image, audio)
+
+image_url (VARCHAR, nullable)
+
+audio_url (VARCHAR, nullable)
+
+created_at, updated_at
+Relationships:
+
+One client → many chats
+
+One bot → many chats
+
+6. assistant_threads
+
+Purpose: Tracks ongoing conversation sessions.
+Columns:
+
+id (PK, BIGINT)
+
+bot_id (FK → bots.id)
+
+client_id (FK → clients.id)
+
+thread_id (VARCHAR) – unique conversation thread identifier
+
+created_at, updated_at
+Relationships:
+
+Used to group multiple messages into a session
+
+7. knowledge
+
+Purpose: Stores chatbot knowledge base (FAQs, articles).
+Columns:
+
+id (PK, BIGINT)
+
+bot_id (FK → bots.id)
+
+title (VARCHAR) – knowledge entry title
+
+content (TEXT) – body text
+
+created_at, updated_at
+Relationships:
+
+One bot → many knowledge entries
+
+8. orders
+
+Purpose: Represents orders placed by clients through chatbots.
+Columns:
+
+id (PK, BIGINT)
+
+client_id (FK → clients.id)
+
+restaurant_id (FK → restaurants.id)
+
+total_price (DECIMAL)
+
+status (VARCHAR: pending, completed, canceled)
+
+created_at, updated_at
+Relationships:
+
+One client → many orders
+
+One restaurant → many orders
+
+One order → many order_items
+
+9. order_items
+
+Purpose: Line items for each order.
+Columns:
+
+id (PK, BIGINT)
+
+order_id (FK → orders.id)
+
+menu_item_id (FK → menu_items.id)
+
+quantity (INT)
+
+price (DECIMAL)
+Relationships:
+
+One order → many order_items
+
+Each order_item references a menu_item
+
+10. menu_items
+
+Purpose: Menu items offered by restaurants.
+Columns:
+
+id (PK, BIGINT)
+
+menu_id (FK → menus.id)
+
+name (VARCHAR) – item name
+
+price (DECIMAL)
+
+description (TEXT, optional)
+Relationships:
+
+One menu → many menu_items
+
+Linked to order_items
+
+11. menus
+
+Purpose: Represents menus belonging to restaurants.
+Columns:
+
+id (PK, BIGINT)
+
+restaurant_id (FK → restaurants.id)
+
+name (VARCHAR) – menu name (e.g., “Lunch Menu”)
+Relationships:
+
+One restaurant → many menus
+
+12. restaurants
+
+Purpose: Stores restaurants integrated with the chatbot.
+Columns:
+
+id (PK, BIGINT)
+
+name (VARCHAR)
+
+address (VARCHAR)
+
+phone (VARCHAR)
+
+created_at, updated_at
+Relationships:
+
+One restaurant → many menus
+
+One restaurant → many orders

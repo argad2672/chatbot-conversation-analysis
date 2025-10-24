@@ -1,0 +1,43 @@
+id,name,logo,menu,location,country,village,address,latitude,longitude,opening_hours,phone_numbers,created_at,updated_at,menu_json,welcome_message,bot_id
+1,Sept Tables,5J64jK0tu7FiZtzIIozHL7SJz8wpPVNC1q5PKJIk.png,https://drive.google.com/file/d/1pEuvTPDSFrhEFMe6trImDgWvJ0dO5AMn/view?usp=sharing,"Rue Paul Langevin, Abidjan",CI,ABIDJAN,,5.2863496,-3.9779061,"{""Friday"": ""10 AM–11 PM"", ""Monday"": ""10 AM–11 PM"", ""Sunday"": ""10 AM–11 PM"", ""Tuesday"": ""10 AM–11 PM"", ""Saturday"": ""10 AM–11:30 PM"", ""Thursday"": ""10 AM–11 PM"", ""Wednesday"": ""10 AM–11 PM""}",0767000041,2025-01-06 12:49:51,2025-01-06 16:05:42,"Category,Name,Price,Description
+PLATS,Filet de Boeuf,12000,
+PLATS,Pavé de Saumon,17000,
+PLATS,Blanc de Poulet,11000,
+PLATS,Gambas à la Plancha,15500,
+TAPAS,Poulet Croustillant - Buffalo,4500,""Goujonnettes de poulet croustillantes imbibées de sauce, servi avec une honey mustard sauce""
+TAPAS,Poulet Croustillant - BBQ,5000,""Goujonnettes de poulet croustillantes imbibées de sauce, servi avec une honey mustard sauce""
+TAPAS,Poulet Croustillant - Louisiana,5000,""Goujonnettes de poulet croustillantes imbibées de sauce, servi avec une honey mustard sauce""
+TAPAS,Quesadillas Poulet/Viande,6500,""Mix de cheddar, mozzarella, tomate cerise, oignon vert, champignon, olive noire, jalapeño, blanc de poulet ou viande hachée, servi avec 3 sauces""
+TAPAS,Gambas Panée au Coco,6500,5 pièces de gambas pânées servies avec une mayonnaise au coco
+TAPAS,Croque-Moi,5000,5 croquettes de fromage mixé cheddar et mozzarella servi avec une sauce Uzi
+TAPAS,Fries N' Cheese,5000,Fondue de cheddar sur des frites croustillantes servi avec une sauce cocktail
+TAPAS,Dynamite Shrimps,7000,""Crevettes panées imbibées d’une spicy mayo légère, sesame, oignon vert""
+TAPAS,Nachos au Fromage,6500,""Tortilla chips, sauce cheddar, jalapeño servi avec 3 sauces""
+TAPAS,Mozzarella Sticks,5000,""5 bâtonnets de mozzarella frits, servi avec une sauce maison""
+TAPAS,Triple Mini Burgers,8000,""Cheese burger, gambas panée, fried chicken with various sauces""
+TAPAS,Ginger Orange Shrimps,7500,""Gambas de tempura sauté à l’orange, au gingembre et au miel""
+TAPAS,Duo de Tartine,5500,Tartine de guacamole faite maison
+TAPAS,Truffle Fries,5000,Frites croustillantes parsemées de parmesan et de l’huile à la truffe
+BURGERS,Zinger Burger,9000,""Escalope de poulet pané, dinde fumé, jalapeño, maïs, iceberg, aïoli sauce, cheddar sauce""
+BURGERS,Cuban Burger,8500,""Beef patty, jalapeno, oignon rouge, tomate, cheddar, iceberg, chili mayo""
+BURGERS,All Fit Burger,7500,""Blanc de poulet grillé, avocat, tomate, champignons sautés, iceberg light mayo-moutarde""
+BURGERS,Ultime Burger,8000,
+BURGERS,Mexican BBQ Burger,9000,""Beef patty, oignons et champignons sautés, jalapeño, tomate, iceberg, cheddar, poivron rouge sauté, chili mayo""
+BURGERS,Classic Cheeseburger,7500,""Beef patty, tomate, oignon frais, iceberg, cheddar, sauce cocktail""
+BURGERS,Club au Poulet,8000,""Pain de mie, poulet grillé, dinde fumée, œuf, tomate, cornichon, salade, asian mayo""
+BURGERS,Chicken Delight Sandwich,7500,""Poulet grillé, mozzarella, avocat, cornichon, tomate, iceberg, sauce honey mustard dans un pain céréales""
+BURGERS,Crispy Bomber Sandwich,7000,""Poulet croustillant, coleslaw salad, tomate, jalapeño, chili mayo dans une baguette traditionnelle""
+SALADES,Salade du chef,9500,""Tomate cerise, servie avec une lemon mayo sauce""
+SALADES,Crispy Crab Salad,9500,""Crab sticks, iceberg, chapelure japonaise, avocat, oignon vert, tomate cerise, spicy mayo""
+SALADES,Crazy Mexican Salad,10500,""Mix greens, poulet au cheddar, haricots rouges, maïs, olive, avocat, tomate cerise, jalapeño, chips tortilla""
+SALADES,Salade Cesar au Poulet,9000,""Iceberg, parmesan, croutons, blanc de poulet grillé""
+SALADES,Salade Nicoise,8500,""Iceberg, tomate cerise, avocat, crevette grillée, honey mustard sauce""
+SALADES,Salade Aubergines & Feta,9000,""Concombre, olive, menthe, persil, zaatar, graines de citrouille, sauce bonbon""
+SALADES,Salade Camembert Rôti,12000,""Camembert rôti au four, sucrine, tomate cerise, noisette, croutons, vinaigrette et miel""
+SALADES,Salade Quinoa,7500,""Quinoa, persil, avocat, laitue verte, concombre, tomate cerise, maïs, vinaigrette""
+SALADES,Tuna Pasta Salad,9500,""Fusilli, thon, maïs, cornichon, olive, laitue verte, concombre, avocat, tomate cerise, lemon mayo""
+DESSERTS,Pain Perdu du Chef,7000,Brioche maison caramélisée servie avec une crême anglaise
+DESSERTS,Cookie Cake,7000,Servie avec une glace à la vanille
+BOISSONS FRAICHES,""Eau plate 0,5 L"",1000,
+BOISSONS FRAICHES,Coca,2000,
+BOISSONS FRAICHES,Ice Tea,2500,","Welcome to Septable, what would you like to order?",15
